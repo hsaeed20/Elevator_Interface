@@ -19,3 +19,9 @@
 **Why the Design is Bad**
 - Lack of a voice telling you what floor you are on or when you are going up/down.
 - The design of most conventional elevators such as this have not evolved. 
+
+**Common Uses in Elevators**
+- 
+
+**Screen Size for Touch Screen**
+-  600 x 650
