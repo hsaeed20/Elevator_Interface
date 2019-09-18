@@ -51,7 +51,9 @@
 - Someone may be initially confused on why the elevator doors has not opened even though the floor number says otherwise. 
 
 **Improvements to the Control Interface**
-- 
+- An inclusion of a mini-map to see where the elevator is at.
+- Seeing the date and time of the day so that it would not be necessary for one to look at their phone or if they are carrying something with both of their hands.
+- Having only one help button that acts as a way to give an option to provide either an emergency alarm or a guide on how to use the elevator. 
 
 **Screen Size for Touch Screen**
 -  600 x 650
