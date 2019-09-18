@@ -9,7 +9,7 @@
 
 
 ![8aa7d938b3e3888a402818efff0c3fff](https://user-images.githubusercontent.com/44040174/65103112-d005bb80-d992-11e9-8de1-4a1b387213c4.jpg)
-![animated](https://user-images.githubusercontent.com/44040174/65102880-1f97b780-d992-11e9-8108-982cd6f3a177.GIF)
+![hw1_Saeed](https://user-images.githubusercontent.com/44040174/65126018-2509f780-d9bc-11e9-8c6e-52a51cfd65a6.GIF)
 
 **Problems With the Current Design**
 - The elevator has a delay when you're about to land at a floor so you do not know if the elevator has truly reached the floor. 
