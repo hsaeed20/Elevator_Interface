@@ -46,5 +46,12 @@
 - It provides them feedback by showing the user the button that has been selected has been highlighted. 
 - As they go through the process of reaching their destination, they will hear a beeping noise signifying that they are passing through certain floors of the elevator.  
 
+**What Are Common Mistakes that One Could Make With This Current Design?**
+- Someone could possibly get confused on the alert and help button since one could be led to believe they mean the same thing given the circumstances.
+- Someone may be initially confused on why the elevator doors has not opened even though the floor number says otherwise. 
+
+**Improvements to the Control Interface**
+- 
+
 **Screen Size for Touch Screen**
 -  600 x 650
