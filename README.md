@@ -1,4 +1,4 @@
-# Elevator_Interface
+# Elevator Interface
 
 **Links**
 - [Presentation](https://hsaeed20.github.io/Elevator_Interface/)
@@ -12,16 +12,27 @@
 ![animated](https://user-images.githubusercontent.com/44040174/65102880-1f97b780-d992-11e9-8108-982cd6f3a177.GIF)
 
 **Problems With the Current Design**
-- The elevator has a delay when you're about to land at the floor. 
+- The elevator has a delay when you're about to land at a floor so you do not know if the elevator has truly reached the floor. 
 - The buttons lack a sound cue when you press it. 
-- The button that closes the door has a delay. 
+- The button that closes the door has a delay.
+- What does the star on floor one mean?
 
 **Why the Design is Bad**
-- Lack of a voice telling you what floor you are on or when you are going up/down.
+- Why is there an alarm and help button? They should both be the same.
 - The design of most conventional elevators such as this have not evolved. 
 
 **Common Uses in Elevators**
-- 
+- Seeing the outline light up when pressing a button
+- Having a "Help" button
+- Floor Numbers usually contain the name of the floors either on or above the button
+
+**Rare Uses in Elevators**
+- The voice on the elevator telling you what floor you are on.
+- Some elevators have touch screen panels that are not common in most elevators.
+- Elevator music is not as common in certain areas of the country. 
+
+**Does the Interface Make Doing These Common Things Easier?** 
+- Because these common feature are on the elevator, I would say yes but it does not hurt to evolve your design as well. 
 
 **Screen Size for Touch Screen**
 -  600 x 650
