@@ -25,6 +25,7 @@
 - Seeing the outline light up when pressing a button
 - Having a "Help" button
 - Floor Numbers usually contain the name of the floors either on or above the button
+- When the floor is selected, a sound queue is heard to signify that the floor has been selected. 
 
 **Rare Uses in Elevators**
 - The voice on the elevator telling you what floor you are on.
@@ -32,7 +33,18 @@
 - Elevator music is not as common in certain areas of the country. 
 
 **Does the Interface Make Doing These Common Things Easier?** 
-- Because these common feature are on the elevator, I would say yes but it does not hurt to evolve your design as well. 
+- Because these common feature are on the elevator (except for the sound queue when pushing a button), I would say yes but it does not hurt to evolve your design as well. 
+
+**What are the Common Sequence of Actions When the User Interacts With the Elevator?**
+- Usually, they would first press the desired floor they would like to go to. Then, they focus on having the door close and then wait for the elevator to take them to their desired floor. 
+
+**How Does the Elevator Support the User Figure Out How to Make it Work?**
+- They figure it out by first seeing the button placement and then navigate to see where their floor is.
+- They also go ahead and make sure if the floor selected has been highlighted. 
+
+**How does the elevator provide feedback to the user?**
+- It provides them feedback by showing the user the button that has been selected has been highlighted. 
+- As they go through the process of reaching their destination, they will hear a beeping noise signifying that they are passing through certain floors of the elevator.  
 
 **Screen Size for Touch Screen**
 -  600 x 650
