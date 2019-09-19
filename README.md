@@ -3,7 +3,7 @@
 **Links**
 - [Presentation](https://hsaeed20.github.io/hw1.29.Saeed/)
 - [GitHub Repositroy](https://github.com/hsaeed20/hw1.29.Saeed/)
-- [Demo](https://hsaeed20.github.io/hw1.29.Saeed/Haroon's_Elevator_Interface/)
+- [Demo](https://hsaeed20.github.io/hw1.29.Saeed/Haroon's_Elevator_Interface)
 
 **Example of an Elevator With Issues:**
 
